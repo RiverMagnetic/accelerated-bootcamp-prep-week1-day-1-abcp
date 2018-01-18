@@ -1,7 +1,7 @@
-name = "Beyonce";
+var name = "beyonce";
 console.log(name);
 
-var personality = "awesome"
+var personality = "caring"
 console.log(personality)
 //
 
